@@ -18,3 +18,7 @@ Install LAMP
 
 >cd /var/www
 
+While in the www directory clone the web-pins folder
+
+>
+
