@@ -34,7 +34,7 @@ Install GPIO  Python library
 
 While in the www directory clone the web-pins folder
 
->wget https://github.com/TheGreenToaster/web-pins.git
+>git clone https://github.com/TheGreenToaster/web-pins.git
 
 In order to allow the PHP to use the Python scripts the PHP user needs to be added to the sudoers file.
 
